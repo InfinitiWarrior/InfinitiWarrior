@@ -1,9 +1,9 @@
 # InfinitiWarrior
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InfinitiWarrior&show_icons=true&theme=radical)
-## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InfinitiWarrior&layout=compact&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infinitiwarrior&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infinitiwarrior&theme=dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infinitiwarrior&theme=dark) 
 
 ## 📫 How to reach me:
 
