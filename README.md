@@ -3,7 +3,6 @@
 ## 📈 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infinitiwarrior&theme=dark) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infinitiwarrior&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infinitiwarrior&theme=dark) 
 
 ## 📫 How to reach me:
 
