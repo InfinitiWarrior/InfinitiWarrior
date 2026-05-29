@@ -22,15 +22,3 @@ If I do something twice manually, I automate it the third time.
 ## On Private Repositories
 
 Most of my backend work — APIs, server-side logic, and infrastructure configuration — is intentionally kept private. This reflects standard practice for production systems handling client data and third-party integrations, not a gap in output. Public repos here represent learning projects and work I'm explicitly permitted to show.
-
-## 📈 GitHub Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infinitiwarrior&theme=dark) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=infinitiwarrior&theme=dark) 
-
-## 📫 How to reach me:
-
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/daniel-axelson-63a2a5290/)
-
-- Portfolio: [Portfolio](https://infinitiwarrior.github.io/)
-
-
